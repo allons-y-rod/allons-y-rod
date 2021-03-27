@@ -5,10 +5,12 @@
 
 
 - 👋 Hi! My name is Rodrigo, I am a person with great communication and open to learn.
-- 👀 I love: The TV show, "Doctor Who", listen music from 00’s/10’s, watching movies about space travel and read Mangá.
+- 👀 I love: The TV shows, "Doctor Who" and "Lost", listen music from 00’s/10’s, watching movies about space travel and read Mangá.
 - 🌱 I’m currently learning Python and MySQL
 
 - If you want to know me better, feel free to talk to me in the direct message on Linkedin!
+- Thanks for visiting.
+- Enjoy it!! o/
 
 
 
