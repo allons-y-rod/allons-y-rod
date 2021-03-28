@@ -4,7 +4,7 @@
 
 
 
-- 👋 Hi! My name is Rodrigo, I am a person with great communication and open to learn.
+- 👋 Hi! My name is Rodrigo, I like to be surrounded by people who challenge me and who are smart. I am always open to learning new things.
 - 👀 I love: The TV shows, "Doctor Who" and "Lost", listen music from 00’s/10’s, watching movies about space travel and read Mangá.
 - 🌱 I’m currently learning Python and MySQL
 
